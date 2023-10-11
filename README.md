@@ -20,7 +20,7 @@ I am a passionate and dedicated cybersecurity professional with a strong backgro
 ## Education
 
 - **Bachelor in Business Administration, Cyber Security** at The University of Texas at San Antonio, **Graduated** Spring of 2024
-- **Google Cybersecurity Certification, Grow with Google on Coursera**, 2023
+- **Google Cybersecurity Certification with Grow with Google on Coursera** in 2023
 
 ## Projects and Achievements
 
