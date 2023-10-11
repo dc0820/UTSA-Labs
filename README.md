@@ -3,7 +3,7 @@ UTSA LABS through the years
 
 ## About Me
 
-I am a passionate and dedicated cybersecurity professional with a strong background in securing digital assets and mitigating online threats. With [6 years] of experience, I have successfully implemented robust security measures to safeguard sensitive information and ensure the integrity of systems.
+I am a passionate and dedicated cybersecurity professional with a strong background in securing digital assets and mitigating online threats. With 6 years of experience, I have successfully implemented robust security measures to safeguard sensitive information and ensure the integrity of systems.
 
 ## Expertise
 
